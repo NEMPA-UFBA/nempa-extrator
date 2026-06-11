@@ -1,0 +1,15 @@
+# Ambientes virtuais e caches locais
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Arquivos do sistema e da ferramenta
+.DS_Store
+.streamlit/
+
+# Entradas e saídas locais
+*.pdf
+*.PDF
+*.csv
+*.xlsx
